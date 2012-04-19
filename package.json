@@ -1,0 +1,9 @@
+{
+  "name": "math-worksheets",
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script": "1.3.1",
+    "coffeekup": "0.3.1",
+    "express": "2.5.9"
+  }
+}

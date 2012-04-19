@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.problem {
+  float: left;
+  border-bottom: solid 1px black;
+  font-size: 50px;
+  margin: 20px;
+  margin-bottom: 50px;
+  width: 100px;
+}
+.problem > div {
+  text-align: right;
+}
